@@ -1,6 +1,6 @@
 # HOW TO INSTALL
 First, goto [this](https://google.com) page and copy the code.
-Next, create a new bookmark in your bookmarks bar and set it to whatevery you want. Paste the code into the page location.
+Next, create a new bookmark in your bookmarks bar and set the name to whatever you want. Paste the code into the page location.
 Finally, go into [1v1.lol](https://1v1.lol) and simply click the bookmark you created.
 Enjoy!
 
