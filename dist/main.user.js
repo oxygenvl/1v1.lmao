@@ -6,14 +6,6 @@
 // @author       Oxygen6#9860
 // @match        https://1v1.lol/*
 // ==/UserScript==
-// ==UserScript==
-// @name         1v1.lmao
-// @namespace    http://tampermonkey.net/
-// @version      v1.2
-// @description  Why can't anyone see me?!
-// @author       Oxygen6#9860
-// @match        https://1v1.lol/*
-// ==/UserScript==
 var version = "v1.2";
 fetch("https://raw.githubusercontent.com/Kepler-11/1v1.lmao/main/server/version.json").then((res) => res.text()).then(text => {
     var json = JSON.parse(text);
