@@ -1,3 +1,13 @@
+var version = "v1.2";
+fetch("https://raw.githubusercontent.com/Kepler-11/1v1.lmao/main/server/version.json").then((res) => res.text()).then(text => {
+    var json = JSON.parse(text);
+    var currentVersion = json.currentVersion;
+    if (currentVersion != version) {
+        alert("1v1.lmao is outdated!\nYour version: " + version + "\nNewest version: " + currentVersion + "\nPlease update.");
+        location.href = "https://github.com/Kepler-11/1v1.lmao";
+    }
+});
+
 var send = WebSocket.prototype.send,
     buffers = [],
     on = false,
