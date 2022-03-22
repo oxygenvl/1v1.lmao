@@ -1,4 +1,8 @@
 # HOW TO INSTALL
+### Tampermonkey:
+Click [this](https://github.com/Kepler-11/1v1.lmao/raw/main/dist/main.user.js) to install with Tampermonkey.
+
+### Bookmarklet:
 First, goto [this](https://raw.githubusercontent.com/Kepler-11/1v1.lmao/main/dist/bookmarklet.txt) page and copy the code.
 Next, create a new bookmark in your bookmarks bar and set the name to whatever you want. Paste the code into the page location.
 Finally, go into [1v1.lol](https://1v1.lol) and simply click the bookmark you created.
