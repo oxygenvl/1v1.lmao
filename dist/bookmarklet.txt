@@ -1,1 +1,1 @@
-
+javascript:fetch('https://raw.githubusercontent.com/Kepler-11/1v1.lmao/main/dist/main.min.js').then((r)=>r.text()).then((t)=>eval(t));
